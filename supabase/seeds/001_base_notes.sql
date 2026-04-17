@@ -1,0 +1,6 @@
+-- Seed base inicial
+-- Aquí luego pondremos:
+-- roles base
+-- configuraciones
+-- categorías iniciales
+-- métodos de pago
